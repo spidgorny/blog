@@ -30,3 +30,8 @@ If you are a craftsman - you need to find a business partner. If you are a busin
 
 How do you find a co-founder? I am going to explain that in my next articles.
 Subscribe by [Watching] this [issue](https://github.com/spidgorny/blog/issues/1).
+
+# Table of Contents
+
+* 2019-06-12 [Book Recommendation: The Lean Startup](https://github.com/spidgorny/blog/blob/master/2019/06-12-Lean-Startup.md)
+* ...
