@@ -1,0 +1,2 @@
+# blog
+Slawa Startup Guidelines
