@@ -26,5 +26,7 @@ If you are a craftsman - you need to find a business partner. If you are a busin
 
 > CTO - Chief Technology Officer - an typical abbreviation for a technical co-founder. There's also a CEO - Chief Executive Officer - business co-founder.
 
+#### TL;DR; The target audience for this blog is the craftsman who had an idea for the business, but doesn't know where to start.
+
 How do you find a co-founder? I am going to explain that in my next articles.
 Subscribe by [Watching] this [issue](https://github.com/spidgorny/blog/issues/1).
